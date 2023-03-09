@@ -1,5 +1,5 @@
 numpy==1.16.2 #Changed to latest version
-pandas==any #Changed by Mustafa
+pandas==2.15 #Changed to update in master file
 scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
