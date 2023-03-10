@@ -21,3 +21,5 @@ services:
     depends_on:
       - mysql
 # ADDED THIS TO COMMIT IN MASTER BRANCH USING GITHUB.COM
+
+# TESTING PULL(FETCH + MERGE)
